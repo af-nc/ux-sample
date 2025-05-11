@@ -1,0 +1,173 @@
+[
+    {
+        "id": "doc123",
+        "name": "Dr. Gregory House (from 'House MD')",
+        "clinicName": "Princeton-Plainsboro Teaching Hospital",
+        "gender": "M",
+        "accepting_patients": true,
+        "availability_agree": 45,
+        "availability_disagree": 3
+    },
+    {
+        "id": "doc456",
+        "name": "Dr. Doolittle (from 'Dr. Doolittle')",
+        "clinicName": "Animal Whisperer Clinic",
+        "gender": "M",
+        "accepting_patients": false,
+        "availability_agree": 12,
+        "availability_disagree": 8
+    },
+    {
+        "id": "doc789",
+        "name": "Dr. Ellie Sattler (from 'Jurassic Park')",
+        "clinicName": "Dino Health Center",
+        "gender": "F",
+        "accepting_patients": true,
+        "availability_agree": 23,
+        "availability_disagree": 1
+    },
+    {
+        "id": "doc101",
+        "name": "Dr. Nick Riviera (from 'The Simpsons')",
+        "clinicName": "Springfield Quick Clinic",
+        "gender": "M",
+        "accepting_patients": true,
+        "availability_agree": 34,
+        "availability_disagree": 2
+    },
+    {
+        "id": "doc102",
+        "name": "Dr. Meredith Grey (from 'Grey's Anatomy')",
+        "clinicName": "Seattle Grace Mercy West Hospital",
+        "gender": "F",
+        "accepting_patients": true,
+        "availability_agree": 28,
+        "availability_disagree": 4
+    },
+    {
+        "id": "doc103",
+        "name": "Dr. Doofenshmirtz (from 'Phineas and Ferb')",
+        "clinicName": "Evil Incorporated Medical",
+        "gender": "M",
+        "accepting_patients": false,
+        "availability_agree": 15,
+        "availability_disagree": 6
+    },
+    {
+        "id": "doc104",
+        "name": "Dr. Strange (from 'Doctor Strange')",
+        "clinicName": "Sanctum Sanctorum Clinic",
+        "gender": "M",
+        "accepting_patients": true,
+        "availability_agree": 42,
+        "availability_disagree": 2
+    },
+    {
+        "id": "doc105",
+        "name": "Dr. Zoidberg (from 'Futurama')",
+        "clinicName": "Decapodian Health Services",
+        "gender": "M",
+        "accepting_patients": true,
+        "availability_agree": 31,
+        "availability_disagree": 3
+    },
+    {
+        "id": "doc106",
+        "name": "Dr. Hannibal Lecter (from 'The Silence of the Lambs')",
+        "clinicName": "Fine Dining Psychiatry",
+        "gender": "M",
+        "accepting_patients": false,
+        "availability_agree": 18,
+        "availability_disagree": 5
+    },
+    {
+        "id": "doc107",
+        "name": "Dr. Dolittle (from 'Dr. Dolittle')",
+        "clinicName": "Animal Talk Clinic",
+        "gender": "M",
+        "accepting_patients": true,
+        "availability_agree": 37,
+        "availability_disagree": 1
+    },
+    {
+        "id": "doc108",
+        "name": "Dr. Leo Spaceman (from '30 Rock')",
+        "clinicName": "Quack Medicine Inc.",
+        "gender": "M",
+        "accepting_patients": true,
+        "availability_agree": 29,
+        "availability_disagree": 4
+    },
+    {
+        "id": "doc109",
+        "name": "Dr. Bunsen Honeydew (from 'The Muppets')",
+        "clinicName": "Muppet Labs Medical",
+        "gender": "M",
+        "accepting_patients": false,
+        "availability_agree": 14,
+        "availability_disagree": 7
+    },
+    {
+        "id": "doc110",
+        "name": "Dr. Evil (from 'Austin Powers')",
+        "clinicName": "Evil Health Corporation",
+        "gender": "M",
+        "accepting_patients": true,
+        "availability_agree": 33,
+        "availability_disagree": 2
+    },
+    {
+        "id": "doc111",
+        "name": "Dr. Frasier Crane (from 'Frasier')",
+        "clinicName": "Seattle Psychiatry Center",
+        "gender": "M",
+        "accepting_patients": true,
+        "availability_agree": 26,
+        "availability_disagree": 3
+    },
+    {
+        "id": "doc112",
+        "name": "Dr. Frankenstein (from 'Frankenstein')",
+        "clinicName": "Monster Health Lab",
+        "gender": "M",
+        "accepting_patients": false,
+        "availability_agree": 19,
+        "availability_disagree": 6
+    },
+    {
+        "id": "doc113",
+        "name": "Dr. Pepper (from 'Dr. Pepper Ads')",
+        "clinicName": "Soda Pop Wellness Center",
+        "gender": "M",
+        "accepting_patients": true,
+        "availability_agree": 41,
+        "availability_disagree": 1
+    },
+    {
+        "id": "doc114",
+        "name": "Dr. Watson (from 'Sherlock Holmes')",
+        "clinicName": "Baker Street Medical",
+        "gender": "M",
+        "accepting_patients": true,
+        "availability_agree": 27,
+        "availability_disagree": 4
+    },
+    {
+        "id": "doc115",
+        "name": "Dr. Quinn (from 'Dr. Quinn, Medicine Woman')",
+        "clinicName": "Frontier Health Clinic",
+        "gender": "F",
+        "accepting_patients": false,
+        "availability_agree": 16,
+        "availability_disagree": 5
+    },
+    {
+        "id": "doc116",
+        "name": "Dr. Drake Ramoray (from 'Days of Our Lives')",
+        "clinicName": "Soap Opera General Hospital",
+        "gender": "M",
+        "accepting_patients": true,
+        "availability_agree": 35,
+        "availability_disagree": 2
+    }
+]

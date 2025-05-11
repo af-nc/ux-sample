@@ -1,0 +1,135 @@
+[
+    {
+        "id": "clinic123",
+        "name": "Gotham City Medical Center (from 'Batman')",
+        "accepting_patients": true,
+        "availability_agree": 78,
+        "availability_disagree": 5
+    },
+    {
+        "id": "clinic456",
+        "name": "Jurassic Health Clinic (from 'Jurassic Park')",
+        "accepting_patients": false,
+        "availability_agree": 15,
+        "availability_disagree": 10
+    },
+    {
+        "id": "clinic789",
+        "name": "Springfield General Hospital (from 'The Simpsons')",
+        "accepting_patients": true,
+        "availability_agree": 34,
+        "availability_disagree": 2
+    },
+    {
+        "id": "clinic101",
+        "name": "Hogwarts Infirmary (from 'Harry Potter')",
+        "accepting_patients": true,
+        "availability_agree": 45,
+        "availability_disagree": 3
+    },
+    {
+        "id": "clinic102",
+        "name": "Wakanda Healing Center (from 'Black Panther')",
+        "accepting_patients": false,
+        "availability_agree": 12,
+        "availability_disagree": 8
+    },
+    {
+        "id": "clinic103",
+        "name": "Starship Enterprise Medical Bay (from 'Star Trek')",
+        "accepting_patients": true,
+        "availability_agree": 67,
+        "availability_disagree": 4
+    },
+    {
+        "id": "clinic104",
+        "name": "South Park Family Clinic (from 'South Park')",
+        "accepting_patients": true,
+        "availability_agree": 89,
+        "availability_disagree": 6
+    },
+    {
+        "id": "clinic105",
+        "name": "Monsters, Inc. Health Services (from 'Monsters, Inc.')",
+        "accepting_patients": false,
+        "availability_agree": 23,
+        "availability_disagree": 15
+    },
+    {
+        "id": "clinic106",
+        "name": "Rivendell Healing Center (from 'Lord of the Rings')",
+        "accepting_patients": true,
+        "availability_agree": 56,
+        "availability_disagree": 3
+    },
+    {
+        "id": "clinic107",
+        "name": "Pawnee Health Department (from 'Parks and Recreation')",
+        "accepting_patients": true,
+        "availability_agree": 42,
+        "availability_disagree": 2
+    },
+    {
+        "id": "clinic108",
+        "name": "Bikini Bottom Clinic (from 'SpongeBob SquarePants')",
+        "accepting_patients": false,
+        "availability_agree": 18,
+        "availability_disagree": 12
+    },
+    {
+        "id": "clinic109",
+        "name": "Tatooine Medical Center (from 'Star Wars')",
+        "accepting_patients": true,
+        "availability_agree": 75,
+        "availability_disagree": 5
+    },
+    {
+        "id": "clinic110",
+        "name": "Shrek's Swamp Clinic (from 'Shrek')",
+        "accepting_patients": true,
+        "availability_agree": 31,
+        "availability_disagree": 2
+    },
+    {
+        "id": "clinic111",
+        "name": "Narnia Healing Center (from 'The Chronicles of Narnia')",
+        "accepting_patients": false,
+        "availability_agree": 28,
+        "availability_disagree": 18
+    },
+    {
+        "id": "clinic112",
+        "name": "Arendelle Medical Services (from 'Frozen')",
+        "accepting_patients": true,
+        "availability_agree": 63,
+        "availability_disagree": 4
+    },
+    {
+        "id": "clinic113",
+        "name": "Zootopia Animal Hospital (from 'Zootopia')",
+        "accepting_patients": true,
+        "availability_agree": 48,
+        "availability_disagree": 3
+    },
+    {
+        "id": "clinic114",
+        "name": "Gravity Falls Clinic (from 'Gravity Falls')",
+        "accepting_patients": false,
+        "availability_agree": 22,
+        "availability_disagree": 14
+    },
+    {
+        "id": "clinic115",
+        "name": "Avengers Medical Facility (from 'Marvel Cinematic Universe')",
+        "accepting_patients": true,
+        "availability_agree": 82,
+        "availability_disagree": 6
+    },
+    {
+        "id": "clinic116",
+        "name": "Honeydukes Wellness Center (from 'Harry Potter')",
+        "accepting_patients": true,
+        "availability_agree": 37,
+        "availability_disagree": 2
+    }
+]
